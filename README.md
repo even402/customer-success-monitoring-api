@@ -1,4 +1,3 @@
-Customer Success Churn Analysis with API (Postman)
 🚀 Customer Success Monitoring com API
 
 📌 Sobre o projeto
